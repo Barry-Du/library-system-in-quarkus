@@ -1,0 +1,6 @@
+quarkus:
+  http:
+    port: 9000
+  mongodb:
+    connection-string: mongodb://localhost:27017/admin
+    database: admin
